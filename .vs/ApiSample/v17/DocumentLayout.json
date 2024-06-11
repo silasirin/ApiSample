@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00DD1D64-9378-44A3-BDA5-70678102E662}|Presentation\\ApiSample.Api\\ApiSample.Api.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\presentation\\apisample.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00DD1D64-9378-44A3-BDA5-70678102E662}|Presentation\\ApiSample.Api\\ApiSample.Api.csproj|solutionrelative:presentation\\apisample.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16F661F2-EE9D-4541-A78C-CEDD7767D7C7}|Core\\ApiSample.Domain\\ApiSample.Domain.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F661F2-EE9D-4541-A78C-CEDD7767D7C7}|Core\\ApiSample.Domain\\ApiSample.Domain.csproj|solutionrelative:core\\apisample.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F661F2-EE9D-4541-A78C-CEDD7767D7C7}|Core\\ApiSample.Domain\\ApiSample.Domain.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F661F2-EE9D-4541-A78C-CEDD7767D7C7}|Core\\ApiSample.Domain\\ApiSample.Domain.csproj|solutionrelative:core\\apisample.domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F661F2-EE9D-4541-A78C-CEDD7767D7C7}|Core\\ApiSample.Domain\\ApiSample.Domain.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F661F2-EE9D-4541-A78C-CEDD7767D7C7}|Core\\ApiSample.Domain\\ApiSample.Domain.csproj|solutionrelative:core\\apisample.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F661F2-EE9D-4541-A78C-CEDD7767D7C7}|Core\\ApiSample.Domain\\ApiSample.Domain.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.domain\\entities\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F661F2-EE9D-4541-A78C-CEDD7767D7C7}|Core\\ApiSample.Domain\\ApiSample.Domain.csproj|solutionrelative:core\\apisample.domain\\entities\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -26,15 +42,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Presentation\\ApiSample.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\ApiSample.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Presentation\\ApiSample.Api\\Program.cs",
-              "RelativeToolTip": "Presentation\\ApiSample.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "DocumentIndex": 3,
+              "Title": "Detail.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Detail.cs",
+              "RelativeDocumentMoniker": "Core\\ApiSample.Domain\\Entities\\Detail.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Detail.cs",
+              "RelativeToolTip": "Core\\ApiSample.Domain\\Entities\\Detail.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T20:48:25.264Z",
+              "WhenOpened": "2024-06-10T21:20:07.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Brand.cs",
+              "RelativeDocumentMoniker": "Core\\ApiSample.Domain\\Entities\\Brand.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Brand.cs",
+              "RelativeToolTip": "Core\\ApiSample.Domain\\Entities\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:20:03.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\ApiSample.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Core\\ApiSample.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:18:34.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Core\\ApiSample.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Core\\ApiSample.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:16:41.083Z",
               "EditorCaption": ""
             }
           ]
