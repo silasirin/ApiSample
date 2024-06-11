@@ -1,0 +1,12 @@
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\bin\Debug\net7.0\ApiSample.Application.deps.json
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\bin\Debug\net7.0\ApiSample.Application.dll
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\bin\Debug\net7.0\ApiSample.Application.pdb
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\obj\Debug\net7.0\ApiSample.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\obj\Debug\net7.0\ApiSample.Application.AssemblyInfoInputs.cache
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\obj\Debug\net7.0\ApiSample.Application.AssemblyInfo.cs
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\obj\Debug\net7.0\ApiSample.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\obj\Debug\net7.0\ApiSample.Application.sourcelink.json
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\obj\Debug\net7.0\ApiSample.Application.dll
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\obj\Debug\net7.0\refint\ApiSample.Application.dll
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\obj\Debug\net7.0\ApiSample.Application.pdb
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\obj\Debug\net7.0\ref\ApiSample.Application.dll

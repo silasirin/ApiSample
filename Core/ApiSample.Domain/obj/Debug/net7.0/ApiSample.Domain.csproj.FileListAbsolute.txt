@@ -1,0 +1,12 @@
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Domain\bin\Debug\net7.0\ApiSample.Domain.deps.json
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Domain\bin\Debug\net7.0\ApiSample.Domain.dll
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Domain\bin\Debug\net7.0\ApiSample.Domain.pdb
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Domain\obj\Debug\net7.0\ApiSample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Domain\obj\Debug\net7.0\ApiSample.Domain.AssemblyInfoInputs.cache
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Domain\obj\Debug\net7.0\ApiSample.Domain.AssemblyInfo.cs
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Domain\obj\Debug\net7.0\ApiSample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Domain\obj\Debug\net7.0\ApiSample.Domain.sourcelink.json
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Domain\obj\Debug\net7.0\ApiSample.Domain.dll
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Domain\obj\Debug\net7.0\refint\ApiSample.Domain.dll
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Domain\obj\Debug\net7.0\ApiSample.Domain.pdb
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Domain\obj\Debug\net7.0\ref\ApiSample.Domain.dll

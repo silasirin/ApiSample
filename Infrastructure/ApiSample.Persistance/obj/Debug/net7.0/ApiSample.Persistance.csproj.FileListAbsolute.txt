@@ -1,0 +1,12 @@
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\bin\Debug\net7.0\ApiSample.Persistance.deps.json
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\bin\Debug\net7.0\ApiSample.Persistance.dll
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\bin\Debug\net7.0\ApiSample.Persistance.pdb
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\obj\Debug\net7.0\ApiSample.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\obj\Debug\net7.0\ApiSample.Persistance.AssemblyInfoInputs.cache
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\obj\Debug\net7.0\ApiSample.Persistance.AssemblyInfo.cs
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\obj\Debug\net7.0\ApiSample.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\obj\Debug\net7.0\ApiSample.Persistance.sourcelink.json
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\obj\Debug\net7.0\ApiSample.Persistance.dll
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\obj\Debug\net7.0\refint\ApiSample.Persistance.dll
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\obj\Debug\net7.0\ApiSample.Persistance.pdb
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\obj\Debug\net7.0\ref\ApiSample.Persistance.dll
