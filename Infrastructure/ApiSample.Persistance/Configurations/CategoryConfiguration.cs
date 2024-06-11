@@ -53,7 +53,7 @@ namespace ApiSample.Persistance.Configurations
                 IsDeleted = false,
             };
 
-            builder.HasData(category1, category2);
+            builder.HasData(category1, category2, parent1, parent2);
         }
     }
 }

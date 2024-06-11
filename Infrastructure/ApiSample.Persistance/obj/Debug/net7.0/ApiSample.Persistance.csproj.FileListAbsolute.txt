@@ -10,3 +10,11 @@ C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\obj
 C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\obj\Debug\net7.0\refint\ApiSample.Persistance.dll
 C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\obj\Debug\net7.0\ApiSample.Persistance.pdb
 C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\obj\Debug\net7.0\ref\ApiSample.Persistance.dll
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\bin\Debug\net7.0\ApiSample.Persistance.runtimeconfig.json
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\bin\Debug\net7.0\ApiSample.Domain.dll
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\bin\Debug\net7.0\ApiSample.Domain.pdb
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\obj\Debug\net7.0\ApiSample.Persistance.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\obj\Debug\net7.0\ApiSampl.253090DC.Up2Date
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\obj\Debug\net7.0\ApiSample.Persistance.genruntimeconfig.cache
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\bin\Debug\net7.0\ApiSample.Application.dll
+C:\Users\Sıla Şirin\Desktop\ApiSample\Infrastructure\ApiSample.Persistance\bin\Debug\net7.0\ApiSample.Application.pdb

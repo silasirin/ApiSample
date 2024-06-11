@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ApiSample.Domain.Entities
 {
-    public class Category: EntityBase
+    public class Category: EntityBase, IEntityBase
     {
         public Category()
         {
@@ -24,7 +24,10 @@ namespace ApiSample.Domain.Entities
         public required string Name { get; set; }
         public required int Priority { get; set; }
 
+        //Bir kategoride birden çok detay olur
         public ICollection<Detail> Details { get; set; }
+
+        //Bir kategoride birden fazla ürün olur
         public ICollection<Product> Products { get; set; }
     }
 }

@@ -10,3 +10,7 @@ C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\obj\Debug\net
 C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\obj\Debug\net7.0\refint\ApiSample.Application.dll
 C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\obj\Debug\net7.0\ApiSample.Application.pdb
 C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\obj\Debug\net7.0\ref\ApiSample.Application.dll
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\bin\Debug\net7.0\ApiSample.Domain.dll
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\bin\Debug\net7.0\ApiSample.Domain.pdb
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\obj\Debug\net7.0\ApiSample.Application.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\ApiSample\Core\ApiSample.Application\obj\Debug\net7.0\ApiSampl.0CDB1DCF.Up2Date

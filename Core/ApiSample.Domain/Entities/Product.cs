@@ -20,7 +20,10 @@ namespace ApiSample.Domain.Entities
         public required decimal Price { get; set; }
         public required decimal Discount { get; set; }
 
+        //Bir ürünün bir markası olur
         public Brand Brand { get; set; }
+
+        //Bir ürünün birden fazla kategorisi olabilir
         public ICollection<Category> Categories { get; set; }
     }
 }
