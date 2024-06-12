@@ -9,10 +9,10 @@ namespace ApiSample.Application.Interfaces.Repositories
 {
     public interface IWriteRepository<T> where T : class, IEntityBase, new()
     {
-        Task<int> AddAsync(T entity);
-        Task<int> AddRangeAsync(IList<T> entity);
+        Task AddAsync(T entity);
+        Task AddRangeAsync(IList<T> entities);
         Task<T> UpdateAsync(T entity);
         Task HardDeleteAsync(T entity);
-        Task SoftDeleteAsync(T entity);
+        
     }
 }

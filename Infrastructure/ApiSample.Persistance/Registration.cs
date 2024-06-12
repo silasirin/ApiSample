@@ -1,5 +1,6 @@
 ﻿using ApiSample.Application.Interfaces.Repositories;
 using ApiSample.Persistance.Context;
+using ApiSample.Persistance.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -17,7 +18,8 @@ namespace ApiSample.Persistance
         {
             services.AddDbContext<AppDbContext>(apt => apt.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddScoped(typeof(IReadRepository<>), typeof(IReadRepository<>));
+            services.AddScoped(typeof(IReadRepository<>), typeof(ReadRepository<>));
+            services.AddScoped(typeof(IWriteRepository<>), typeof(WriteRepository<>));
         }
     }
 }
