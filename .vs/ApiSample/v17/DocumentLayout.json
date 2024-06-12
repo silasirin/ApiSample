@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\infrastructure\\apisample.persistance\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|solutionrelative:infrastructure\\apisample.persistance\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\infrastructure\\apisample.persistance\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|solutionrelative:infrastructure\\apisample.persistance\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +66,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Registration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ApiSample.Persistance\\Registration.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Registration.cs",
+              "RelativeToolTip": "Infrastructure\\ApiSample.Persistance\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:16:57.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Interfaces\\Repositories\\IReadRepository.cs",
               "RelativeDocumentMoniker": "Core\\ApiSample.Application\\Interfaces\\Repositories\\IReadRepository.cs",
@@ -75,12 +92,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IWriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Interfaces\\Repositories\\IWriteRepository.cs",
               "RelativeDocumentMoniker": "Core\\ApiSample.Application\\Interfaces\\Repositories\\IWriteRepository.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Interfaces\\Repositories\\IWriteRepository.cs*",
-              "RelativeToolTip": "Core\\ApiSample.Application\\Interfaces\\Repositories\\IWriteRepository.cs*",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Interfaces\\Repositories\\IWriteRepository.cs",
+              "RelativeToolTip": "Core\\ApiSample.Application\\Interfaces\\Repositories\\IWriteRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T20:32:44.089Z",
@@ -88,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Repositories\\WriteRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ApiSample.Persistance\\Repositories\\WriteRepository.cs",
@@ -101,20 +118,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Repositories\\ReadRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ApiSample.Persistance\\Repositories\\ReadRepository.cs",
               "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Repositories\\ReadRepository.cs",
               "RelativeToolTip": "Infrastructure\\ApiSample.Persistance\\Repositories\\ReadRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T20:30:01.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Core\\ApiSample.Domain\\Entities\\Product.cs",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Core\\ApiSample.Domain\\Entities\\Category.cs",
@@ -140,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ApiSample.Persistance\\Context\\AppDbContext.cs",
@@ -153,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ProductConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Configurations\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ApiSample.Persistance\\Configurations\\ProductConfiguration.cs",
@@ -166,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DetailConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Configurations\\DetailConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ApiSample.Persistance\\Configurations\\DetailConfiguration.cs",
@@ -179,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CategoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Configurations\\CategoryConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ApiSample.Persistance\\Configurations\\CategoryConfiguration.cs",
