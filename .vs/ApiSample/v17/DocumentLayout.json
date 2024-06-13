@@ -1,52 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\infrastructure\\apisample.persistance\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|solutionrelative:infrastructure\\apisample.persistance\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\infrastructure\\apisample.persistance\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|solutionrelative:infrastructure\\apisample.persistance\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.application\\interfaces\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|solutionrelative:core\\apisample.application\\interfaces\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.application\\interfaces\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|solutionrelative:core\\apisample.application\\interfaces\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\infrastructure\\apisample.persistance\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|solutionrelative:infrastructure\\apisample.persistance\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\infrastructure\\apisample.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|solutionrelative:infrastructure\\apisample.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\infrastructure\\apisample.persistance\\configurations\\detailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|solutionrelative:infrastructure\\apisample.persistance\\configurations\\detailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\infrastructure\\apisample.persistance\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|solutionrelative:infrastructure\\apisample.persistance\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16F661F2-EE9D-4541-A78C-CEDD7767D7C7}|Core\\ApiSample.Domain\\ApiSample.Domain.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16F661F2-EE9D-4541-A78C-CEDD7767D7C7}|Core\\ApiSample.Domain\\ApiSample.Domain.csproj|solutionrelative:core\\apisample.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16F661F2-EE9D-4541-A78C-CEDD7767D7C7}|Core\\ApiSample.Domain\\ApiSample.Domain.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16F661F2-EE9D-4541-A78C-CEDD7767D7C7}|Core\\ApiSample.Domain\\ApiSample.Domain.csproj|solutionrelative:core\\apisample.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\infrastructure\\apisample.persistance\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|solutionrelative:infrastructure\\apisample.persistance\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -54,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,149 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Registration.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Registration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ApiSample.Persistance\\Registration.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Registration.cs",
-              "RelativeToolTip": "Infrastructure\\ApiSample.Persistance\\Registration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T21:16:57.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Interfaces\\Repositories\\IReadRepository.cs",
-              "RelativeDocumentMoniker": "Core\\ApiSample.Application\\Interfaces\\Repositories\\IReadRepository.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Interfaces\\Repositories\\IReadRepository.cs",
-              "RelativeToolTip": "Core\\ApiSample.Application\\Interfaces\\Repositories\\IReadRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T20:50:22.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IWriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Interfaces\\Repositories\\IWriteRepository.cs",
-              "RelativeDocumentMoniker": "Core\\ApiSample.Application\\Interfaces\\Repositories\\IWriteRepository.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Interfaces\\Repositories\\IWriteRepository.cs",
-              "RelativeToolTip": "Core\\ApiSample.Application\\Interfaces\\Repositories\\IWriteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T20:32:44.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Repositories\\WriteRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ApiSample.Persistance\\Repositories\\WriteRepository.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Repositories\\WriteRepository.cs",
-              "RelativeToolTip": "Infrastructure\\ApiSample.Persistance\\Repositories\\WriteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T20:30:36.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Repositories\\ReadRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ApiSample.Persistance\\Repositories\\ReadRepository.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Repositories\\ReadRepository.cs",
-              "RelativeToolTip": "Infrastructure\\ApiSample.Persistance\\Repositories\\ReadRepository.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowDgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T20:30:01.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Core\\ApiSample.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "Core\\ApiSample.Domain\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T20:18:29.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Core\\ApiSample.Domain\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "Core\\ApiSample.Domain\\Entities\\Category.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T20:15:49.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ApiSample.Persistance\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\ApiSample.Persistance\\Context\\AppDbContext.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T20:13:48.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Configurations\\ProductConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ApiSample.Persistance\\Configurations\\ProductConfiguration.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Configurations\\ProductConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\ApiSample.Persistance\\Configurations\\ProductConfiguration.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T20:13:19.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DetailConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Configurations\\DetailConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ApiSample.Persistance\\Configurations\\DetailConfiguration.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Configurations\\DetailConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\ApiSample.Persistance\\Configurations\\DetailConfiguration.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABUAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T20:11:25.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Configurations\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ApiSample.Persistance\\Configurations\\CategoryConfiguration.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Configurations\\CategoryConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\ApiSample.Persistance\\Configurations\\CategoryConfiguration.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T20:03:03.318Z",
-              "EditorCaption": ""
             }
           ]
         }

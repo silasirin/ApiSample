@@ -14,11 +14,11 @@ namespace ApiSample.Domain.Entities
             
         }
         
-        public required string Title { get; set; }
-        public required string Description { get; set; }
-        public required int BrandId { get; set; }
-        public required decimal Price { get; set; }
-        public required decimal Discount { get; set; }
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public int BrandId { get; set; }
+        public decimal Price { get; set; }
+        public decimal Discount { get; set; }
 
         //Bir ürünün bir markası olur
         public Brand Brand { get; set; }
