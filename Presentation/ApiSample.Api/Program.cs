@@ -1,4 +1,5 @@
 using ApiSample.Persistance;
+using ApiSample.Application;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +17,7 @@ builder.Configuration
     .AddJsonFile($"appsettings.{env.EnvironmentName}.json",optional:true);
 
 builder.Services.AddPersistance(builder.Configuration);
+builder.Services.AddApplication();
 
 var app = builder.Build();
 

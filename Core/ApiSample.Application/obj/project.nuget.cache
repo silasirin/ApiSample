@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "L4Iq3V8TCqk=",
+  "dgSpecHash": "T67V5sTe3hg=",
   "success": true,
   "projectFilePath": "C:\\Users\\Sıla Şirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\ApiSample.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Sıla Şirin\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Sıla Şirin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Sıla Şirin\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.20\\microsoft.entityframeworkcore.7.0.20.nupkg.sha512",
     "C:\\Users\\Sıla Şirin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.20\\microsoft.entityframeworkcore.abstractions.7.0.20.nupkg.sha512",
     "C:\\Users\\Sıla Şirin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.20\\microsoft.entityframeworkcore.analyzers.7.0.20.nupkg.sha512",
