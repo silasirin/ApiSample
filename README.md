@@ -4,7 +4,7 @@
 4-Infrastructure içine iki adet class library proje oluşturuldu. -ApiSample.Infrastructure ve ApiSample.Persistance
 5-Presentation klasörünün içerisine ApiSample.Api adında Core Web Api projesi açıldı.
 6-ApiSample.Api projesinin çindeki appsettings.Development kopyalandı ve appsettings.Production olarak değiştirildi. Bunların ve launchsettings.json içerisinde değişiklikler yapıldı.
-7-ApiSample.Domain projesi içine common klasörü oluşturuldu. EntityBase ve IEntityBase classları açıldı. EntityBase IEntityBase'den implament alıyor. ID, CreateDate ve IsDeketed adında üc adet propertysi var.
+7-ApiSample.Domain projesi içine common klasörü oluşturuldu. EntityBase ve IEntityBase classları açıldı. EntityBase IEntityBase'den implament alıyor. ID, CreateDate ve IsDeleted adında üc adet propertysi var.
 8-Entities adında bir klasör oluşturuldu ve içine Brand,Category,Detail ve Product classları açıldı. Bu class'lar EntityBase class'ından implament alıyor.
 9-Infrastructure klasöründe ApiSample.Persistance prohesinde Configurations adında bir klasör oluşturuldu. İçine BrandCOnfiguration, CategoryConfiguration,ProductConfiguration ve DetailConfiguration class'ları oluşturuldu. Bu class'lar EntityType ile diğer class'lardan implament alıyor. Bu arada Nuget Manager'dan EntityFrammework kurulumu yapıldı(7.0.2). ApiSample.Domain projesinden referanas eklendi. Böylece class'lara data ekleme işlemleri bu class'larda yapılıyor.
 10-ApiSample.Persistance projesine Context adında bir klasör açıldı. İçine AppDbContext Class'ı oluşturuldu. Bu class DbContextx'ten implament alıyor (entityframeworkcore). İçine dbset'ler yapıldı. Nuget Manager ile EntityFrameworkSqlServer ve tools indirildi (7.0.2)
@@ -42,4 +42,6 @@ public class ValuesController : ControllerBase
 24-Queries klasörünün içine GetAllProducts adında bir klasör açıldı. Bu klasöre GetAllProductsQueryRequest, GetAllProductsQueryResponse ve GetAllProductsQueryHandler adında class'lar oluşturuldu.
 25-Application katmanına Nuget Manager'dan Mediatr 12.1.1 indirilir. Böylece IRequest'ten implament alınıyor.
 26-Api projesine ProductController oluşturulur (empty api controller)
-27-Application projesine Registration class'ı oluşturulur. İçerisindeki static method, program cs'e eklendi.
+27-Application projesine Registration class'ı oluşturulur. İçerisindeki static method, program.cs'e eklendi.
+28-Automapper Yapısı:Application projesi içindeki interfaces klasorune AutoMapper adında bir klasör açıldı ve içine IMapper Interface'i oluşturuldu.
+29-
