@@ -2,6 +2,7 @@
 using ApiSample.Application.Interfaces.UnitOfWorks;
 using ApiSample.Domain.Entities;
 using MediatR;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -31,7 +32,11 @@ namespace ApiSample.Application.Features.Products.Queries.GetAllProducts
         }
         public async Task<IList<GetAllProductsQueryResponse>> Handle(GetAllProductsQueryRequest request, CancellationToken cancellationToken)
         {
-            var products = await unitOfWork.GetReadRepository<Product>().GetAllAsync();
+            //Automapperdan önce yapılan alan:
+            //var products = await unitOfWork.GetReadRepository<Product>().GetAllAsync();
+
+            //Automapperdan sonra yapılan alan:
+            var products = await unitOfWork.GetReadRepository<Product>().GetAllAsync(include :x => x.Include(b=>b.Brand));
 
             //IList new'lenemez bu nedenle List türünden oluşturuyoruz. --> Interface'ler new'lenemez!
             //Automapperdan önce yapılan alan:

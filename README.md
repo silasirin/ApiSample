@@ -51,3 +51,4 @@ public class ValuesController : ControllerBase
 33-Api katmanında program cs'e builder.Services.AddCustomMapper(); eklenir ve bunun için api projesine Mapper projesinden reference verilir.(using de eklenmeli)
 34-Application projesine DTOs klasörü onun da içine BrandDto class'ı açıldı.
 35-Queries klasöründe bulunan handler, request ve response class'larına eklemeler yapılıyor. (dtolar eklendi)
+36- CRUD İŞLEMLERİ: 
