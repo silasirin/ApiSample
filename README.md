@@ -47,3 +47,7 @@ public class ValuesController : ControllerBase
 29-Core katmanı içinde ApiSample.Mapper adında class library açılır.
 30-Buraya AutoMapper klasörü, içine de Mapper class'ı açılır. IMapper'dan implament alıyor.
 31-Bu projeye nuget packet manager'dan microsoft.extensions.dependencyinjection.abstractions (vers 7.0.0) kurulumu yapılır.
+32-Yine bu katmana registration adında static bir class oluşturuldu.
+33-Api katmanında program cs'e builder.Services.AddCustomMapper(); eklenir ve bunun için api projesine Mapper projesinden reference verilir.(using de eklenmeli)
+34-Application projesine DTOs klasörü onun da içine BrandDto class'ı açıldı.
+35-Queries klasöründe bulunan handler, request ve response class'larına eklemeler yapılıyor. (dtolar eklendi)
