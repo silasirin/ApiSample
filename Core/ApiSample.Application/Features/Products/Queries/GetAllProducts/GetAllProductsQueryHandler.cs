@@ -1,4 +1,5 @@
-﻿using ApiSample.Application.Interfaces.AutoMapper;
+﻿using ApiSample.Application.DTOs;
+using ApiSample.Application.Interfaces.AutoMapper;
 using ApiSample.Application.Interfaces.UnitOfWorks;
 using ApiSample.Domain.Entities;
 using MediatR;
@@ -37,6 +38,8 @@ namespace ApiSample.Application.Features.Products.Queries.GetAllProducts
 
             //Automapperdan sonra yapılan alan:
             var products = await unitOfWork.GetReadRepository<Product>().GetAllAsync(include :x => x.Include(b=>b.Brand));
+
+            var brand = mapper.Map<BrandDto, Brand>(new Brand());
 
             //IList new'lenemez bu nedenle List türünden oluşturuyoruz. --> Interface'ler new'lenemez!
             //Automapperdan önce yapılan alan:
