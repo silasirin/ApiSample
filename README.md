@@ -46,4 +46,4 @@ public class ValuesController : ControllerBase
 28-Automapper Yapısı:Application projesi içindeki interfaces klasorune AutoMapper adında bir klasör açıldı ve içine IMapper Interface'i oluşturuldu.
 29-Core katmanı içinde ApiSample.Mapper adında class library açılır.
 30-Buraya AutoMapper klasörü, içine de Mapper class'ı açılır. IMapper'dan implament alıyor.
-31-
+31-Bu projeye nuget packet manager'dan microsoft.extensions.dependencyinjection.abstractions (vers 7.0.0) kurulumu yapılır.

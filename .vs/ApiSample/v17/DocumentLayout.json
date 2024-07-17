@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.application\\automapper\\imapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|solutionrelative:core\\apisample.application\\automapper\\imapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE00F03D-3436-4412-AFAE-1DCA374D663A}|ApiSample.Mapper\\ApiSample.Mapper.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\apisample.mapper\\automapper\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE00F03D-3436-4412-AFAE-1DCA374D663A}|ApiSample.Mapper\\ApiSample.Mapper.csproj|solutionrelative:apisample.mapper\\automapper\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IMapper.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\AutoMapper\\IMapper.cs",
-              "RelativeDocumentMoniker": "Core\\ApiSample.Application\\AutoMapper\\IMapper.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\AutoMapper\\IMapper.cs",
-              "RelativeToolTip": "Core\\ApiSample.Application\\AutoMapper\\IMapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\ApiSample.Mapper\\AutoMapper\\Mapper.cs",
+              "RelativeDocumentMoniker": "ApiSample.Mapper\\AutoMapper\\Mapper.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\ApiSample.Mapper\\AutoMapper\\Mapper.cs",
+              "RelativeToolTip": "ApiSample.Mapper\\AutoMapper\\Mapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T16:32:26.193Z",
+              "WhenOpened": "2024-07-17T16:37:04.665Z",
               "EditorCaption": ""
             }
           ]

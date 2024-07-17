@@ -83,3 +83,5 @@ C:\Users\Sıla Şirin\Desktop\ApiSample\Presentation\ApiSample.Api\bin\Debug\net
 C:\Users\Sıla Şirin\Desktop\ApiSample\Presentation\ApiSample.Api\bin\Debug\net7.0\ApiSample.Domain.pdb
 C:\Users\Sıla Şirin\Desktop\ApiSample\Presentation\ApiSample.Api\bin\Debug\net7.0\ApiSample.Application.dll
 C:\Users\Sıla Şirin\Desktop\ApiSample\Presentation\ApiSample.Api\bin\Debug\net7.0\ApiSample.Application.pdb
+C:\Users\Sıla Şirin\Desktop\ApiSample\Presentation\ApiSample.Api\bin\Debug\net7.0\MediatR.dll
+C:\Users\Sıla Şirin\Desktop\ApiSample\Presentation\ApiSample.Api\bin\Debug\net7.0\MediatR.Contracts.dll
