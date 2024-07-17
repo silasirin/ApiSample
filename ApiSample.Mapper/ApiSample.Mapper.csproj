@@ -10,4 +10,8 @@
     <ProjectReference Include="..\Core\ApiSample.Application\ApiSample.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="AutoMapper\" />
+  </ItemGroup>
+
 </Project>
