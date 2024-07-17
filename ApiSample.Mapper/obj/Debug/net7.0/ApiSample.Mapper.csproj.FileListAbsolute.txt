@@ -1,0 +1,6 @@
+C:\Users\Sıla Şirin\Desktop\ApiSample\ApiSample.Mapper\obj\Debug\net7.0\ApiSample.Mapper.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\ApiSample\ApiSample.Mapper\obj\Debug\net7.0\ApiSample.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sıla Şirin\Desktop\ApiSample\ApiSample.Mapper\obj\Debug\net7.0\ApiSample.Mapper.AssemblyInfoInputs.cache
+C:\Users\Sıla Şirin\Desktop\ApiSample\ApiSample.Mapper\obj\Debug\net7.0\ApiSample.Mapper.AssemblyInfo.cs
+C:\Users\Sıla Şirin\Desktop\ApiSample\ApiSample.Mapper\obj\Debug\net7.0\ApiSample.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\ApiSample\ApiSample.Mapper\obj\Debug\net7.0\ApiSample.Mapper.sourcelink.json

@@ -44,4 +44,6 @@ public class ValuesController : ControllerBase
 26-Api projesine ProductController oluşturulur (empty api controller)
 27-Application projesine Registration class'ı oluşturulur. İçerisindeki static method, program.cs'e eklendi.
 28-Automapper Yapısı:Application projesi içindeki interfaces klasorune AutoMapper adında bir klasör açıldı ve içine IMapper Interface'i oluşturuldu.
-29-
+29-Core katmanı içinde ApiSample.Mapper adında class library açılır.
+30-Buraya AutoMapper klasörü, içine de Mapper class'ı açılır. IMapper'dan implament alıyor.
+31-

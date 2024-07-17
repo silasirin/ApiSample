@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.application\\automapper\\imapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|solutionrelative:core\\apisample.application\\automapper\\imapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE00F03D-3436-4412-AFAE-1DCA374D663A}|ApiSample.Mapper\\ApiSample.Mapper.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\apisample.mapper\\automapper\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE00F03D-3436-4412-AFAE-1DCA374D663A}|ApiSample.Mapper\\ApiSample.Mapper.csproj|solutionrelative:apisample.mapper\\automapper\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.application\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|solutionrelative:core\\apisample.application\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,6 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\ApiSample.Mapper\\AutoMapper\\Mapper.cs",
+              "RelativeDocumentMoniker": "ApiSample.Mapper\\AutoMapper\\Mapper.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\ApiSample.Mapper\\AutoMapper\\Mapper.cs",
+              "RelativeToolTip": "ApiSample.Mapper\\AutoMapper\\Mapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:23:13.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMapper.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\AutoMapper\\IMapper.cs",
+              "RelativeDocumentMoniker": "Core\\ApiSample.Application\\AutoMapper\\IMapper.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\AutoMapper\\IMapper.cs",
+              "RelativeToolTip": "Core\\ApiSample.Application\\AutoMapper\\IMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:15:19.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Presentation\\ApiSample.Api\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\ApiSample.Api\\Program.cs",
@@ -58,12 +92,11 @@
               "RelativeToolTip": "Presentation\\ApiSample.Api\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T19:26:07.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T19:26:07.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Registration.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Registration.cs",
               "RelativeDocumentMoniker": "Core\\ApiSample.Application\\Registration.cs",
@@ -76,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Presentation\\ApiSample.Api\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Presentation\\ApiSample.Api\\Controllers\\ProductController.cs",
@@ -84,12 +117,11 @@
               "RelativeToolTip": "Presentation\\ApiSample.Api\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T19:19:13.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T19:19:13.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Core\\ApiSample.Domain\\Entities\\Product.cs",
@@ -97,12 +129,11 @@
               "RelativeToolTip": "Core\\ApiSample.Domain\\Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T19:08:36.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T19:08:36.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "GetAllProductsQueryResponse.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryResponse.cs",
               "RelativeDocumentMoniker": "Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryResponse.cs",
@@ -110,12 +141,11 @@
               "RelativeToolTip": "Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T19:04:02.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T19:04:02.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "GetAllProductsQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
               "RelativeDocumentMoniker": "Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
@@ -123,12 +153,11 @@
               "RelativeToolTip": "Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T19:03:26.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T19:03:26.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "GetAllProductsQueryRequest.cs",
               "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryRequest.cs",
               "RelativeDocumentMoniker": "Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryRequest.cs",
@@ -136,8 +165,7 @@
               "RelativeToolTip": "Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T19:03:01.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T19:03:01.146Z"
             }
           ]
         }
