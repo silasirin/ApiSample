@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.application\\features\\products\\queries\\getallproducts\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|solutionrelative:core\\apisample.application\\features\\products\\queries\\getallproducts\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.application\\features\\products\\command\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|solutionrelative:core\\apisample.application\\features\\products\\command\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.application\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|solutionrelative:core\\apisample.application\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\infrastructure\\apisample.persistance\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|solutionrelative:infrastructure\\apisample.persistance\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.application\\features\\products\\queries\\getallproducts\\getallproductsqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|solutionrelative:core\\apisample.application\\features\\products\\queries\\getallproducts\\getallproductsqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.application\\features\\products\\command\\updateproduct\\updateproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|solutionrelative:core\\apisample.application\\features\\products\\command\\updateproduct\\updateproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00DD1D64-9378-44A3-BDA5-70678102E662}|Presentation\\ApiSample.Api\\ApiSample.Api.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\presentation\\apisample.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00DD1D64-9378-44A3-BDA5-70678102E662}|Presentation\\ApiSample.Api\\ApiSample.Api.csproj|solutionrelative:presentation\\apisample.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.application\\features\\products\\command\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|solutionrelative:core\\apisample.application\\features\\products\\command\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE00F03D-3436-4412-AFAE-1DCA374D663A}|ApiSample.Mapper\\ApiSample.Mapper.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\apisample.mapper\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE00F03D-3436-4412-AFAE-1DCA374D663A}|ApiSample.Mapper\\ApiSample.Mapper.csproj|solutionrelative:apisample.mapper\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.application\\interfaces\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|solutionrelative:core\\apisample.application\\interfaces\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE00F03D-3436-4412-AFAE-1DCA374D663A}|ApiSample.Mapper\\ApiSample.Mapper.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\apisample.mapper\\automapper\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE00F03D-3436-4412-AFAE-1DCA374D663A}|ApiSample.Mapper\\ApiSample.Mapper.csproj|solutionrelative:apisample.mapper\\automapper\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\infrastructure\\apisample.persistance\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A75926-AAC1-4EFA-A56E-2D76669E3E6E}|Infrastructure\\ApiSample.Persistance\\ApiSample.Persistance.csproj|solutionrelative:infrastructure\\apisample.persistance\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.application\\features\\products\\command\\createproduct\\createproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55FE78A-7A63-4BBF-9A6D-B38EF449E23A}|Core\\ApiSample.Application\\ApiSample.Application.csproj|solutionrelative:core\\apisample.application\\features\\products\\command\\createproduct\\createproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F661F2-EE9D-4541-A78C-CEDD7767D7C7}|Core\\ApiSample.Domain\\ApiSample.Domain.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\core\\apisample.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F661F2-EE9D-4541-A78C-CEDD7767D7C7}|Core\\ApiSample.Domain\\ApiSample.Domain.csproj|solutionrelative:core\\apisample.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DD1D64-9378-44A3-BDA5-70678102E662}|Presentation\\ApiSample.Api\\ApiSample.Api.csproj|c:\\users\\s\u0131la \u015Firin\\desktop\\apisample\\presentation\\apisample.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DD1D64-9378-44A3-BDA5-70678102E662}|Presentation\\ApiSample.Api\\ApiSample.Api.csproj|solutionrelative:presentation\\apisample.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,6 +49,32 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ApiSample.Persistance\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ApiSample.Persistance\\Repositories\\ReadRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:36:33.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Interfaces\\Repositories\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ApiSample.Application\\Interfaces\\Repositories\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Interfaces\\Repositories\\IReadRepository.cs",
+              "RelativeToolTip": "Core\\ApiSample.Application\\Interfaces\\Repositories\\IReadRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:23:34.043Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
@@ -46,80 +84,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetAllProductsQueryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryResponse.cs",
-              "RelativeDocumentMoniker": "Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryResponse.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryResponse.cs",
-              "RelativeToolTip": "Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "DocumentIndex": 0,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ApiSample.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "Core\\ApiSample.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwB0AAACEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T17:59:14.859Z",
+              "WhenOpened": "2024-07-18T09:58:37.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BrandDto.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\DTOs\\BrandDto.cs",
-              "RelativeDocumentMoniker": "Core\\ApiSample.Application\\DTOs\\BrandDto.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\DTOs\\BrandDto.cs",
-              "RelativeToolTip": "Core\\ApiSample.Application\\DTOs\\BrandDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Repositories\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ApiSample.Persistance\\Repositories\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Infrastructure\\ApiSample.Persistance\\Repositories\\WriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ApiSample.Persistance\\Repositories\\WriteRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T17:58:25.439Z",
+              "WhenOpened": "2024-07-18T10:13:44.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetAllProductsQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
-              "RelativeToolTip": "Core\\ApiSample.Application\\Features\\Products\\Queries\\GetAllProducts\\GetAllProductsQueryHandler.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAzwDMAAAATAAAA",
+              "DocumentIndex": 2,
+              "Title": "UpdateProductCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ApiSample.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandRequest.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandRequest.cs",
+              "RelativeToolTip": "Core\\ApiSample.Application\\Features\\Products\\Command\\UpdateProduct\\UpdateProductCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T17:57:33.235Z",
+              "WhenOpened": "2024-07-18T09:24:33.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Presentation\\ApiSample.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\ApiSample.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Presentation\\ApiSample.Api\\Program.cs",
-              "RelativeToolTip": "Presentation\\ApiSample.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ApiSample.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "Core\\ApiSample.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwCIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T17:54:31.557Z",
+              "WhenOpened": "2024-07-18T08:34:00.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Registration.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\ApiSample.Mapper\\Registration.cs",
-              "RelativeDocumentMoniker": "ApiSample.Mapper\\Registration.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\ApiSample.Mapper\\Registration.cs",
-              "RelativeToolTip": "ApiSample.Mapper\\Registration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\ApiSample.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Core\\ApiSample.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T17:05:34.773Z",
+              "WhenOpened": "2024-07-18T08:08:26.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Mapper.cs",
-              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\ApiSample.Mapper\\AutoMapper\\Mapper.cs",
-              "RelativeDocumentMoniker": "ApiSample.Mapper\\AutoMapper\\Mapper.cs",
-              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\ApiSample.Mapper\\AutoMapper\\Mapper.cs",
-              "RelativeToolTip": "ApiSample.Mapper\\AutoMapper\\Mapper.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAgwDUAAAAkAAAA",
+              "DocumentIndex": 6,
+              "Title": "CreateProductCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ApiSample.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandRequest.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Core\\ApiSample.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandRequest.cs",
+              "RelativeToolTip": "Core\\ApiSample.Application\\Features\\Products\\Command\\CreateProduct\\CreateProductCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T16:37:04.665Z",
+              "WhenOpened": "2024-07-18T08:31:46.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Presentation\\ApiSample.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Presentation\\ApiSample.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\S\u0131la \u015Eirin\\Desktop\\ApiSample\\Presentation\\ApiSample.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Presentation\\ApiSample.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:56:10.137Z",
               "EditorCaption": ""
             }
           ]

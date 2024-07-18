@@ -51,4 +51,22 @@ public class ValuesController : ControllerBase
 33-Api katmanında program cs'e builder.Services.AddCustomMapper(); eklenir ve bunun için api projesine Mapper projesinden reference verilir.(using de eklenmeli)
 34-Application projesine DTOs klasörü onun da içine BrandDto class'ı açıldı.
 35-Queries klasöründe bulunan handler, request ve response class'larına eklemeler yapılıyor. (dtolar eklendi)
-36- CRUD İŞLEMLERİ: 
+36-CRUD İŞLEMLERİ: Oluşturulan apiSample db silindi. 
+37-Domain'de bulunan Entities klasörüne ProductCategory class'ı açıldı. Bu class IEntityBase'den implament alıyor.
+38-Product ve Category class'larında değişiklik yapıldı.
+39-Persistance'da bulunan context klasöründeki appdbcontext classına aşağıdaki kısım eklendi:
+public DbSet<ProductCategory> ProductCategories { get; set; }
+40-Configurations klasörünün içine ProductCategoryConfiguration class'ı oluşturuldu. Bu class IEntityTypeConfiguration<ProductCategory> buradan implament alıyor.
+41-Api projesi set as startup project seçildi. Packet Manager Console'da Persistance ayarlanır PM> add-migration update1 yazılır.succes dönünce update-database yapılır.
+42- Crud işlemleri için Application katmanında features->products->command klasörü içine Create product klasörü açıldı. onun içine de CreateProductCommandRequest class'ı açıldı. IRequest'ten implament alıyor.
+43-CreateProductCommandHandler class'ı açıldı. Bu kısımdaki düzenlemeler için Entities->Product'a yeni bir consturctor açılır.
+44-ProductController'a aşağıdaki ekleme yapılır ve development iken proje başlatılır. Controller'a breakpoint konulup deneme yapılır:  
+[HttpPost]
+ public async Task<IActionResult> CreateProduct(CreateProductCommandRequest request)
+ {
+     await mediator.Send(request);
+
+     return Ok();
+ }
+ --veriler sorunsuzca db'ye aktarılıyor.
+ 45-Application katmanında features->Products->UpdateProducts klasörü açılır. İçine UpdateProductCommandRequest ve UpdateProductCommandHandler class'ı açılır.

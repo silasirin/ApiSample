@@ -13,7 +13,14 @@ namespace ApiSample.Domain.Entities
         {
             
         }
-        
+        public Product(string title, string description, int brandId, decimal price, decimal discount)
+        {
+            Discount = discount;
+            Title = title;
+            Description = description;
+            BrandId = brandId;
+            Price = price;
+        }
         public string Title { get; set; }
         public string Description { get; set; }
         public int BrandId { get; set; }
@@ -23,7 +30,8 @@ namespace ApiSample.Domain.Entities
         //Bir ürünün bir markası olur
         public Brand Brand { get; set; }
 
-        //Bir ürünün birden fazla kategorisi olabilir
-        public ICollection<Category> Categories { get; set; }
+        //Bir ürünün birden fazla kategorisi olabilir -- ilk yazılan kısım burası. Crud işlemleri için yorum satırına alındı
+        //public ICollection<Category> Categories { get; set; }
+        public ICollection<ProductCategory> ProductCategories { get; set; }
     }
 }

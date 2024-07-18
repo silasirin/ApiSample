@@ -27,7 +27,8 @@ namespace ApiSample.Domain.Entities
         //Bir kategoride birden çok detay olur
         public ICollection<Detail> Details { get; set; }
 
-        //Bir kategoride birden fazla ürün olur
-        public ICollection<Product> Products { get; set; }
+        //Bir kategoride birden fazla ürün olur -- ilk yazılan kısım burası. Crud işlemleri için yorum satırına alındı
+        //public ICollection<Product> Products { get; set; }
+        public ICollection<ProductCategory> ProductCategories { get; set; }
     }
 }

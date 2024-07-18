@@ -21,11 +21,11 @@ namespace ApiSample.Application.Interfaces.Repositories
         Func<IQueryable<T>, IOrderedQueryable<T>>? orderBy = null,
         bool enableTracking = false, int currentPage =1, int pageSize = 3);
        
-        Task<IList<T>> GetAsync(Expression<Func<T, bool>> predicate,
+        Task<T> GetAsync(Expression<Func<T, bool>> predicate,
         Func<IQueryable<T>, IIncludableQueryable<T, object>>? include = null,
         bool enableTracking = false);
 
-        IQueryable<T> Find(Expression<Func<T, bool>> predicate, bool enableTracking = false);
+        IQueryable<T> Find(Expression<Func<T, bool>> predicate);
 
         Task<int> CountAsync(Expression<Func<T, bool>>? predicate = null);
     }
