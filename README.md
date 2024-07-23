@@ -70,3 +70,5 @@ public DbSet<ProductCategory> ProductCategories { get; set; }
  }
  --veriler sorunsuzca db'ye aktarılıyor.
  45-Application katmanında features->Products->UpdateProducts klasörü açılır. İçine UpdateProductCommandRequest ve UpdateProductCommandHandler class'ı açılır.
+ 46-Application katmanında features->Products->DeleteProduct klasörü açılır. İçine DeleteProductCommandRequest ve DeleteProductHandler class'ı açılır.
+ 47-Controller'a updateProduct ve deleteProduct açıldı.
