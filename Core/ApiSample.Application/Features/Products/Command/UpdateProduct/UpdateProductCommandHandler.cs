@@ -29,6 +29,14 @@ namespace ApiSample.Application.Features.Products.Command.UpdateProducts
             var map = mapper.Map<Product, UpdateProductCommandRequest>(request);
             var productCategories = await unitOfWork.GetReadRepository<ProductCategory>().GetAllAsync(x => x.ProductId == product.Id);
 
+            await unitOfWork.GetWriteRepository<ProductCategory>().HardDeleteRangeAsync(productCategories);
+
+            foreach (var categoryId in request.CategoryIds)
+                await unitOfWork.GetWriteRepository<ProductCategory>().AddAsync(new() { CategoryId = categoryId, ProductId = product.Id });
+
+            await unitOfWork.GetWriteRepository<Product>().UpdateAsync(product);
+            await unitOfWork.SaveAsync();
+
         }
     }
 }

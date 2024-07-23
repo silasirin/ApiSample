@@ -41,9 +41,9 @@ namespace ApiSample.Persistance.Repositories
             await Task.Run(() => Table.Remove(entity));
         }
 
-        public Task HardDeleteAsync(IList<T> entities)
+        public async Task HardDeleteRangeAsync(IList<T> entities)
         {
-            throw new NotImplementedException();
+            await Task.Run(() => Table.RemoveRange(entities));
         }
     }
 }
